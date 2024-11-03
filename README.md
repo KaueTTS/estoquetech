@@ -17,7 +17,9 @@ EM BREVE
 
 ## Tecnologias
 
-EM BREVE
+<div width="140px">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,php" />
+</div>
 
 ## Como utilizar o projeto
 
