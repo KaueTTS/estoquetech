@@ -18,7 +18,7 @@
 
 ## Descrição do projeto
 
-EM BREVE
+O Controle de Estoque é um sistema desenvolvido para facilitar a gestão de produtos, permitindo um controle eficiente das movimentações de entrada e saída, além de fornecer informações detalhadas sobre os itens armazenados.
 
 ### Funcionalidades Principais
 
@@ -27,9 +27,13 @@ EM BREVE
 ## Tecnologias
 
 <div width="140px">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,notion,html,css" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,figma,notion,lucidchart&theme=dark" />
     <br>
-    <img src="https://skillicons.dev/icons?i=php,js,mysql" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,js,sass,tailwind&theme=dark" />
+    <br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,php&theme=dark" />
+    <br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver&theme=dark" />
 </div>
 
 ## Projeto em funcionamento
